@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Kakaev</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-<img align="right" alt="Itachi" width="400" src="https://i.pinimg.com/originals/02/c0/c4/02c0c400904938c3f9f57eacb8743fa3.gif">
+<img align="right" alt="Itachi" width="1600" src="https://i.pinimg.com/originals/02/c0/c4/02c0c400904938c3f9f57eacb8743fa3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibraborzmk&label=Profile%20views&color=0e75b6&style=flat" alt="ibraborzmk" /> </p>
 
